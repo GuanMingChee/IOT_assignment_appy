@@ -2,7 +2,7 @@ const app = require('../app');
 
 const request = require('supertest');
 
-describe('gae_node_request_example', () => {
+describe('gae_flex_quickstart', () => {
   describe('GET /', () => {
     it('should get 200', done => {
       request(app)
