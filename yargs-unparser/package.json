@@ -51,7 +51,7 @@
     "jest": "^24.8.0",
     "lint-staged": "^9.2.1",
     "minimist": "^1.2.0",
-    "standard-version": "^7.0.0",
+    "standard-version": "^8.0.1",
     "yargs-parser": "^13.1.1"
   },
   "engines": {
